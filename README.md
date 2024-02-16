@@ -15,4 +15,4 @@
 - Task 1: useFetch file - Implement custom hook for fetching data. check useFetch file for all instructions. (points-2)
 - Task 2: App.js file - follow all the instructions given in the App.js file (points-3)
 
-#### [Assignment was created with &hearts; by [anisul islam](https://www.youtube.com/c/anisulislamrubel) &copy;Anisul Islam]
+
